@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\font\\DigiDelbar3.eot",
+      "PackagePath": "staticwebassets\\font\\DigiDelbar3.eot"
+    },
+    {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\font\\DigiDelbar3.svg",
+      "PackagePath": "staticwebassets\\font\\DigiDelbar3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\font\\DigiDelbar3.ttf",
+      "PackagePath": "staticwebassets\\font\\DigiDelbar3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\font\\DigiDelbar3.woff",
+      "PackagePath": "staticwebassets\\font\\DigiDelbar3.woff"
+    },
+    {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\font\\DigiDelbar3.woff2",
+      "PackagePath": "staticwebassets\\font\\DigiDelbar3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\font\\font.css",
+      "PackagePath": "staticwebassets\\font\\font.css"
+    },
+    {
       "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\img\\Steps-to-install-.Net-Core-SDK-Runtime-on-Ubuntu-20.04-LTS.png",
       "PackagePath": "staticwebassets\\img\\Steps-to-install-.Net-Core-SDK-Runtime-on-Ubuntu-20.04-LTS.png"
     },
@@ -43,6 +67,10 @@
     {
       "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\img\\download.png",
       "PackagePath": "staticwebassets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
       "Id": "C:\\Users\\Apple\\Desktop\\minimal\\wwwroot\\img\\git.png",

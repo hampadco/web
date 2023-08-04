@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Apple\Desktop\minimal
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Apple/Desktop/minimal/Views/Home/csharpbasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjc2hhcnBiYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Apple/Desktop/minimal/Views/Home/git.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxnaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Apple/Desktop/minimal/Views/Home/html.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxodG1sLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Apple/Desktop/minimal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Apple/Desktop/minimal/Views/Home/test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Apple/Desktop/minimal/Views/Shared/Error.cshtml]

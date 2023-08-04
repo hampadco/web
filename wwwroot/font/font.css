@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Digi Delbar3';
+    src: url('DigiDelbar3.eot');
+    src: url('DigiDelbar3.eot?#iefix') format('embedded-opentype'),
+        url('DigiDelbar3.woff2') format('woff2'),
+        url('DigiDelbar3.woff') format('woff'),
+        url('DigiDelbar3.ttf') format('truetype'),
+        url('DigiDelbar3.svg#DigiDelbar3') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

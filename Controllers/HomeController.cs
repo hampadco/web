@@ -19,6 +19,27 @@ public class HomeController : Controller
         // TODO: Your code here
         return View();
     }
+
+    public IActionResult test()
+    {
+        // TODO: Your code here
+        return View();
+    }
+
+    public IActionResult git()
+    {
+        // TODO: Your code here
+        return View();
+    }
+    
+
+    public IActionResult csharpbasic()
+    {
+        // TODO: Your code here
+        return View();
+    }
+    
+    
     
 
     
