@@ -1,0 +1,17 @@
+  //use cliaim add  id and name and Role to the claim
+        var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, UserName),
+            new Claim(ClaimTypes.Role, "Admin"),
+            new Claim(ClaimTypes.NameIdentifier, "1")
+        };
+
+        //create identity
+        var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+        //create principal
+        var principal = new ClaimsPrincipal(identity);
+
+        //sign in
+
+        HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
